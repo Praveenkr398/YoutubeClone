@@ -294,6 +294,7 @@ nav {
     align-items: center;
     margin-left: 15px;
 }
+.play-video-info{display:flex; gap:10px;}
 .play-video hr{
     border: 0;
     height: 1px;
