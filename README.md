@@ -1,14 +1,15 @@
 # 🎬 YouTube Clone – A Responsive HTML & CSS Project  
 
+## 🚀 About the Project  
+This project is a **YouTube Clone** built using **pure HTML and CSS**, focusing on **replicating the UI/UX** of YouTube without JavaScript. The design is **fully responsive**, ensuring an optimal experience across **mobile, tablet, and desktop devices**.  
+
+
 ## 🔗 **Live Demo:**  
 [Try it here](https://praveenkr398.github.io/YoutubeClone/)  
 ## 💻 **GitHub Repo:**
 [Explore the Code](https://github.com/Praveenkr398/YoutubeClone)  
 
 
-
-## 🚀 About the Project  
-This project is a **YouTube Clone** built using **pure HTML and CSS**, focusing on **replicating the UI/UX** of YouTube without JavaScript. The design is **fully responsive**, ensuring an optimal experience across **mobile, tablet, and desktop devices**.  
 
 ## ✨ Features  
 🎨 **Pixel-Perfect YouTube UI Design** – Looks nearly identical to YouTube  
