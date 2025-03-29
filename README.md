@@ -5,7 +5,6 @@
 ##💻 **GitHub Repo:**
 [Explore the Code](https://github.com/Praveenkr398/YoutubeClone)  
 
-![YouTube Clone Preview]()
 
 
 ## 🚀 About the Project  
@@ -32,7 +31,7 @@ This project is a **YouTube Clone** built using **pure HTML and CSS**, focusing 
 ## 🖼️ Project Preview  
 Check out the live demo to see the project in action!  
 
-![YouTube Clone Preview](preview.png)  
+![YouTube Clone Preview](https://github.com/user-attachments/assets/e7d84723-0caa-40c4-ba6d-5ce33d5b3ad3)  
 
 *(Make sure to upload `preview.png` to your GitHub repository for proper display.)*  
 
