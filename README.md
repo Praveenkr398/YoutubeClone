@@ -2,7 +2,7 @@
 
 ## 🔗 **Live Demo:**  
 [Try it here](https://praveenkr398.github.io/YoutubeClone/)  
-##💻 **GitHub Repo:**
+## 💻 **GitHub Repo:**
 [Explore the Code](https://github.com/Praveenkr398/YoutubeClone)  
 
 
