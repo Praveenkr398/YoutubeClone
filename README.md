@@ -9,7 +9,7 @@ This project is a **YouTube Clone** built using **pure HTML and CSS**, focusing 
 ## 💻 **GitHub Repo:**
 [Explore the Code](https://github.com/Praveenkr398/YoutubeClone)  
 
-
+Category:- "Website, HTML, CSS"
 
 ## ✨ Features  
 🎨 **Pixel-Perfect YouTube UI Design** – Looks nearly identical to YouTube  
